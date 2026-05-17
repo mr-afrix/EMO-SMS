@@ -82,10 +82,10 @@ from telegram.ext import (
     ContextTypes,
 )
 
-BOT_TOKEN           = "8313925262:AAFBgY13zTdARtEuWuIdFp8-rKac6DopNjU"
-BOT_NAME            = "ᴍʀ.ᴀғʀɪx"
-BOT_USERNAME        = "mrafrix_bot"
-BOT_LINK            = "https://t.me/mrafrix_bot"
+BOT_TOKEN           = "8994451200:AAEqnhELWBpNeZ6RZmhI9ldiUY9kixHP_nA"
+BOT_NAME            = "ᴇᴍᴏ sᴍs"
+BOT_USERNAME        = "emosms_bot"
+BOT_LINK            = "https://t.me/emosms_bot"
 BASE_ADMIN_IDS      = [8339856952]
 
 PANEL_BASE          = "http://139.99.69.196/ints"
